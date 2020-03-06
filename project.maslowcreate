@@ -55,10 +55,10 @@
                     "uniqueID": 632579,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
+                        "BOMitemName": "M5 Locknut",
                         "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "costUSD": 0.459,
+                        "source": "https://www.mcmaster.com/90576a104",
                         "totalNeeded": 1
                     }
                 },
@@ -104,6 +104,12 @@
                     "ap2Primary": true,
                     "ap1ID": 401065,
                     "ap2ID": 632579
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 632579
                 },
                 {
                     "ap1Name": "geometry",
